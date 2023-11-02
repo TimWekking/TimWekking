@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @TimWekking
+- 🌱 I’m taking part in the course 'Data Science and HR Analytics'
